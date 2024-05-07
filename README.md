@@ -14,7 +14,9 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 - Liberdade de expressão tem seus problemas, um deles é a disseminação de fake news. Se combate a mentira com mais informação, argumentando, mostrando a verdade. Inclusive, mesmo que não existisse liberdade de expressão, o que impediria fake news? Quem tem o poder dita a verdade, mesmo que seja mentira, afinal;
 - Quando se diz que o Estado não pode entrar na sua casa sem uma ordem judicial, isso é uma limitação ao Estado. O Estado é um ente muito poderoso, é necessário ter alguma limitação ao poder do Estado;
 - Quando uma empresa pede mais impostos para outras, independente da justificativa, é para proteger seus lucros e seu mercado de atuação, nunca é para benefício do consumidor. Se o comerciante não consegue vender pois os produtos dos concorrentes são melhores, significa que ele é apenas mal comerciante e não tem produtos bons;
-- Barreiras alfandegarias implicam em produtos mais caros para os consumidores. Talvez alguém pobre até poderia comprar um determinado eletrônico com 1 mês de trabalho, mas não pode dado as restrições alfandegarias. De fato, em muitos lugares serve para proteger o mercado interno, mas por que não criar um ambiente que promova concorrência e equidade para competição? O consumidor é quem mais se beneficia; 
+- Barreiras alfandegarias implicam em produtos mais caros para os consumidores. Talvez alguém pobre até poderia comprar um determinado eletrônico com 1 mês de trabalho, mas não pode dado as restrições alfandegarias e taxas. De fato, em muitos lugares serve para proteger o mercado interno, mas por que não criar um ambiente que promova concorrência e equidade para competição? O consumidor é quem mais se beneficia;
+- Exército não ter que se envolver em política. Exército tem que dar um jeito de proteger o país, se algum dia a nação for invadida. É a sua única tarefa;
+- Assim como o exército, juiz não tem que se envolver em política. Se o juiz emite opinião política, ele não é mais juiz, ele é político. Juiz tem que julgar com base na lei, não com base em opinião;
 - A pessoa que tenha a liberdade de morar em diversos países temporariamente tem a capacidade de experimentar diversas jurisdições e escolher a melhor para si, contudo ela é obrigada a deixar sua cultura e família para trás na maioria das vezes. Esta Constituição defende essa liberdade de maneira irrestrita, inclusive permitindo ter essa mesma experiência dentro da própria nação com a viabilização de concorrência entre cidades-estado;
 
 ## TÍTULO I - Máximas
@@ -23,7 +25,8 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 - É vedado definir moeda de curso legal e/ou forçado. As pessoas têm o direito de escolher a moeda que desejam utilizar para transações;
 - É vedado a existência de um Banco Central;
 - É vedado o Estado possuir empresas;
-- Só há coleta de tributo na venda de produtos e serviços, logo não existe imposto sobre herença ou imposto anual para quem possuí carros ou qualquer outros bens, por exemplo. Ilustrando, se o carro foi comprado, ele é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado;
+- É vedado o Estado controlar preços de produtos e serviços;
+- Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens, por exemplo. Ilustrando, se o carro foi comprado, ele é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
 - É vedado exigir ou aumentar tributo sem lei que o estabeleça e sem consulta prévia à população interessada por referendo;
 - O sistema de tributação é territorial, ou seja, só é tributado o que é vendido dentro do território brasileiro;
 - Todo cidadão tem o direito de manter e portar armas para fins de autodefesa;
@@ -33,7 +36,7 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 - É vedado crime por opinião;
 - Nenhum direito é superior ao direito individual ou de primeira geração;
 - Direito individual não pode ser harmonizado com outros direitos;
-- Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do Brasil ou de qualquer das cidades-estado.
+- Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
 
 ## TÍTULO II - Sistema de votação
 
