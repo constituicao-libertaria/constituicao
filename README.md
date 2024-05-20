@@ -4,6 +4,8 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 
 ## Premissas lógicas
 
+O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) é a fundação desta Constituição. Portanto, por definição ela não é 100% libertária, mas é um caminho, e antes algo do que nada. De fato, é contraditório permitir impostos sendo que o método de coleta é a agressão: ou paga ou é preso/multado. Esta Constituição é um meio termo entre a liberdade e a realidade, sendo essa realidade a existência de pessoas querendo ditar o que elas acham o que são melhores para as outras. A agressão e o mal sempre vão existir. A partir desse entendimento, é possível derivar as seguintes conclusões:
+
 - Esta Constituição, assim como qualquer outro tipo de contrato, infelizmente, pode não ser respeitado como já ocorreu com outras constituições, dado que é só um papel. Tudo que tem humano envolvido é falível, portanto, por exemplo, não existe se quer o termo "a justiça é cega" para demonstrar imparcialidade;
 - De tempos em tempos as pessoas usam a desculpa do "defender a democracia" para justificar atos que não respeitam as leis. Jamais aceite esse argumento, que é inclusive um crime. É um ataque a democracia na verdade. Isso é demonstrável pelo mesmo argumento usado pela ditadura militar no Brasil em 1964;
 - Não existe serviço gratuito provido pelo Estado uma vez que não existe a opção de não pagar impostos. Se for impostos opcionais, aí sim, seria um serviço gratuito;
@@ -15,7 +17,7 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 - Quando se diz que o Estado não pode entrar na sua casa sem uma ordem judicial, isso é uma limitação ao Estado. O Estado é um ente muito poderoso, é necessário ter alguma limitação ao poder do Estado;
 - Quando uma empresa pede mais impostos para outras, independente da justificativa, é para proteger seus lucros e seu mercado de atuação, nunca é para benefício do consumidor. Se o comerciante não consegue vender pois os produtos dos concorrentes são melhores, significa que ele é apenas mal comerciante e não tem produtos bons;
 - Barreiras alfandegarias implicam em produtos mais caros para os consumidores. Talvez alguém pobre até poderia comprar um determinado eletrônico com 1 mês de trabalho, mas não pode dado as restrições alfandegarias e taxas. De fato, em muitos lugares serve para proteger o mercado interno, mas por que não criar um ambiente que promova concorrência e equidade para competição? O consumidor é quem mais se beneficia;
-- Exército não ter que se envolver em política. Exército tem que dar um jeito de proteger o país, se algum dia a nação for invadida. É a sua única tarefa;
+- Exército não tem que se envolver em política. Exército tem que dar um jeito de proteger o país, se algum dia a nação for invadida. É a sua única tarefa;
 - Assim como o exército, juiz não tem que se envolver em política. Se o juiz emite opinião política, ele não é mais juiz, ele é político. Juiz tem que julgar com base na lei, não com base em opinião;
 - A pessoa que tenha a liberdade de morar em diversos países temporariamente tem a capacidade de experimentar diversas jurisdições e escolher a melhor para si, contudo ela é obrigada a deixar sua cultura e família para trás na maioria das vezes. Esta Constituição defende essa liberdade de maneira irrestrita, inclusive permitindo ter essa mesma experiência dentro da própria nação com a viabilização de concorrência entre cidades-estado;
 
@@ -26,17 +28,33 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 - É vedado a existência de um Banco Central;
 - É vedado o Estado possuir empresas;
 - É vedado o Estado controlar preços de produtos e serviços;
-- Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens, por exemplo. Ilustrando, se o carro foi comprado, ele é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
-- É vedado exigir ou aumentar tributo sem lei que o estabeleça e sem consulta prévia à população interessada por referendo;
+- Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens. Exemplos:
+  - Um carro comprado é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
+  - A compra de bens e serviços externos não implica em imposto;
+  - Não existe imposto sobre a renda uma vez que taxas já são cobradas na venda de produtos e serviços que geraram a renda.
+- É vedado o Estado impor um serviço que implica em cobranças de impostos implicitamente, como por exemplo DPVAT. Se existir algo do gênero, só paga quem quiser e ativamente efetuar o pagamento;
+- É vedado exigir ou aumentar tributo sem lei que o estabeleça e sem consulta prévia à população interessada, conforme disposto em lei complementar;
 - O sistema de tributação é territorial, ou seja, só é tributado o que é vendido dentro do território brasileiro;
 - Todo cidadão tem o direito de manter e portar armas para fins de autodefesa;
 - Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei, portanto é vedada a atribuição de foro especial ou privilegiado;
 - É vedado censura de qualquer tipo, seja por qual motivo for. Portanto é livre a manifestação do pensamento e é inviolável a liberdade de se expressar. A liberdade de expressão é um direito inalienável;
-  - Se o Estado precisa provar que uma postagem é falsa, basta responder e fornecer as fontes. A população decide o que é verdade.
+  - Se o Estado precisa provar que uma postagem é falsa, basta responder e fornecer as fontes. A população decide o que é verdade. Assim como é feito nas notas de comunidade da plataforma X (anteriormente Twitter);
 - É vedado crime por opinião;
-- Nenhum direito é superior ao direito individual ou de primeira geração;
-- Direito individual não pode ser harmonizado com outros direitos;
+- Tudo o que consta nesta Constituição não pode ser harmonizado com outros direitos;
+- Nenhum direito é superior ao direito individual;
+- É vedado exigência de serviço militar obrigatório. O serviço militar é voluntário;
+- É vedado a existência de pena de morte;
+- É vedado romper o devido processo legal. Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
+- O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. A competência originária é expecionalíssima;
+- É vedado estabilidade para cargos públicos, quaisquer que sejam;
 - Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
+- A sociedade brasileira rege-se pela observância dos seguintes princípios:
+  - I – PNA;
+  - II – Autogoverno;
+  - III – Autonomia da vontade do indivíduo;
+  - IV – Consulta direta ao cidadão;
+  - V – Responsabilidade individual; e
+  - IV – Supremacia do contrato.
 
 ## TÍTULO II - Sistema de votação
 
@@ -67,11 +85,45 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 ## TÍTULO IV - Organização do Estado Brasileiro
 
 - A República do Brasil é composta pela União e cidades-estado, entidades 100% autônomas organizadas a partir do princípio da subsidiariedade de competências, nos termos desta Constituição.
-- Os entes federados devem ser autossustentáveis e não depender de qualquer outro;
-- Uma cidades-estado, para ser considerada como tal, deve ter pelo menos 500 mil habitantes. Cidades que possuem menos devem ser incorporadas;
+- Uma cidades-estado, para ser considerada como tal, deve ter pelo menos 1 milhão de habitantes. Cidades que possuem menos devem ser incorporadas;
 - É vedado barreira alfandegaria seja na nação ou nas cidades-estado;
 - Os entes federados são autônomos, exceto na medida em que sua autonomia seja limitada pela Constituição, cabendo a eles exercer todos os direitos que não pertencem à Federação;
-- As cidades-estado organizam-se e regem-se pela Constituição e leis que adotarem, observados os princípios desta Constituição. São reservadas a cidades-estado as competências que não lhes sejam vedadas por esta Constituição.
+- As cidades-estado organizam-se e regem-se pela Constituição e leis que adotarem, observados os princípios desta Constituição. São reservadas a cidades-estado as competências que não lhes sejam vedadas por esta Constituição;
+- Compete à União legislar sobre:
+  - I – direito processual, internacional, marítimo, aeronáutico, espacial e cibernético;
+  - II – nacionalidade, cidadania e naturalização;
+  - III – emigração e imigração, entrada, extradição e expulsão de estrangeiros;
+  - IV – sistema estatístico, sistema cartográfico e de geologia nacionais;
+  - V – competência da polícia federal;
+  - VI – registros públicos;
+  - VII – normas gerais de licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União;
+  - VIII – defesa marítima, territorial, aeroespacial, defesa civil e mobilização nacional;
+  - IX – transparência da Administração pública e de suas atividades;
+  - X – uniformidade de normas e padrões contábeis dos demonstrativos de resultado e de orçamento público.
+- Nenhuma lei federal será proposta para regulamentar:
+  - I – relações de trabalho;
+  - II – planos assistenciais;
+  - III – sistema de saúde;
+  - IV – sistema de educação;
+  - V – sistema previdenciário;
+  - VI - comércio exterior e entre cidades-estado.
+- Compete a União e as cidades-estado legislar concorrentemente sobre:
+  - I – direito civil, penal, comercial, agrário, tributário, penitenciário e urbanístico;
+  - II – orçamento;
+  - III – juntas comerciais;
+  - IV – produção e consumo;
+  - V – ciência, tecnologia, pesquisa, desenvolvimento e inovação;
+  - VI – criação, funcionamento e processo do juizado de pequenas causas;
+  - VII – procedimentos em matéria processual;
+  - VIII – previdência social, proteção e defesa da saúde;
+  - IX – assistência jurídica e Defensoria pública;
+  - X – proteção e integração social das pessoas portadoras de deficiência;
+  - XI – proteção à infância e à juventude;
+  - XII – organização, garantias, direitos e deveres das forças policiais.
+- No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais, que precisarão ser apreciadas pelas assembleias legislativas das cidades-estado para sua entrada em vigor em todo o território nacional.
+- As Leis federais podem ser de competência exclusiva federal e de competência concorrente entre os entes federados.
+- Leis federais que versem sobre matérias cuja competência seja concorrente entre os entes federados serão deliberadas pelo Parlamento e sancionadas pelo Chefe de Estado, e requerem aprovação das assembleias das cidades-estado.
+- No âmbito da legislação concorrente de que trata esta Constituição, a competência da União limitar-se-á a estabelecer normas gerais.
 
 ## Referências
 
