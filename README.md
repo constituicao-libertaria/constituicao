@@ -4,7 +4,7 @@ Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defes
 
 ## Premissas lógicas
 
-O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) é a fundação desta Constituição. Portanto, por definição ela não é 100% libertária, mas é um caminho, e antes algo do que nada. De fato, é contraditório permitir impostos sendo que o método de coleta é a agressão: ou paga ou é preso/multado. Contudo, não é possível vivermos num mundo filosófico, logo, esta Constituição é um meio termo entre a liberdade e a realidade, sendo essa realidade a existência de pessoas querendo ditar o que elas acham o que são melhores para as outras. A agressão e o mal sempre vão existir. A partir desse entendimento, é possível derivar as seguintes conclusões:
+O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) é a fundação desta Constituição. Portanto, por definição ela não é 100% libertária, mas é um caminho, e antes algo do que nada. De fato, é contraditório permitir impostos sendo que o método de coleta é a agressão: ou paga ou é preso/multado. Esta Constituição é um meio termo entre a liberdade e a realidade, sendo essa realidade a existência de pessoas querendo ditar o que elas acham o que são melhores para as outras. A agressão e o mal sempre vão existir. A partir desse entendimento, é possível derivar as seguintes conclusões:
 
 - Esta Constituição, assim como qualquer outro tipo de contrato, infelizmente, pode não ser respeitado como já ocorreu com outras constituições, dado que é só um papel. Tudo que tem humano envolvido é falível, portanto, por exemplo, não existe se quer o termo "a justiça é cega" para demonstrar imparcialidade;
 - De tempos em tempos as pessoas usam a desculpa do "defender a democracia" para justificar atos que não respeitam as leis. Jamais aceite esse argumento, que é inclusive um crime. É um ataque a democracia na verdade. Isso é demonstrável pelo mesmo argumento usado pela ditadura militar no Brasil em 1964;
@@ -32,7 +32,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
   - Um carro comprado é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
   - A compra de bens e serviços externos não implica em imposto;
   - Não existe imposto sobre a renda uma vez que taxas já são cobradas na venda de produtos e serviços que geraram a renda.
-- É vedado o Estado impor um serviço que implica em cobranças de impostos implicitamente, como por exemplo DPVAT. Se existir algo do gênero, só paga quem declarar o desejo, explicitamente;
+- É vedado o Estado impor um serviço que implica em cobranças de impostos implicitamente, como por exemplo DPVAT. Se existir algo do gênero, só paga quem quiser e ativamente efetuar o pagamento;
 - É vedado exigir ou aumentar tributo sem lei que o estabeleça e sem consulta prévia à população interessada, conforme disposto em lei complementar;
 - O sistema de tributação é territorial, ou seja, só é tributado o que é vendido dentro do território brasileiro;
 - Todo cidadão tem o direito de manter e portar armas para fins de autodefesa;
@@ -112,15 +112,14 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
   - II – orçamento;
   - III – juntas comerciais;
   - IV – produção e consumo;
-  - V – florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e dos recursos naturais, proteção do meio ambiente e controle da poluição;
-  - VI – ciência, tecnologia, pesquisa, desenvolvimento e inovação;
-  - VII – criação, funcionamento e processo do juizado de pequenas causas;
+  - V – ciência, tecnologia, pesquisa, desenvolvimento e inovação;
+  - VI – criação, funcionamento e processo do juizado de pequenas causas;
   - VII – procedimentos em matéria processual;
-  - IX – previdência social, proteção e defesa da saúde;
-  - X – assistência jurídica e Defensoria pública;
-  - XI – proteção e integração social das pessoas portadoras de deficiência;
-  - XII – proteção à infância e à juventude;
-  - XIII – organização, garantias, direitos e deveres das forças policiais.
+  - VIII – previdência social, proteção e defesa da saúde;
+  - IX – assistência jurídica e Defensoria pública;
+  - X – proteção e integração social das pessoas portadoras de deficiência;
+  - XI – proteção à infância e à juventude;
+  - XII – organização, garantias, direitos e deveres das forças policiais.
 - No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais, que precisarão ser apreciadas pelas assembleias legislativas das cidades-estado para sua entrada em vigor em todo o território nacional.
 - As Leis federais podem ser de competência exclusiva federal e de competência concorrente entre os entes federados.
 - Leis federais que versem sobre matérias cuja competência seja concorrente entre os entes federados serão deliberadas pelo Parlamento e sancionadas pelo Chefe de Estado, e requerem aprovação das assembleias das cidades-estado.
