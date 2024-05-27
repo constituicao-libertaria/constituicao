@@ -11,7 +11,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Não existe serviço gratuito provido pelo Estado uma vez que não existe a opção de não pagar impostos. Se for impostos opcionais, aí sim, seria um serviço gratuito;
 - A partir do momento que é compreendido o princípio da não-agressão, é entendido o quão agressivo é questionar se uma pessoa pode casar-se com outra, independente do sexo, o mesmo para uso de drogas. As decisões de cada indivíduo, desde que sejam voluntárias, não podem ser proibidas, contudo podem ter consequências boas ou ruins, depende;
 - Todo ser vivo nasce com uma única propriedade privada: seu corpo;
-- Aborto pode ser fatal psicologicamente. As mulheres têm o direito de fazê-lo, mas cuidado com as consequências. No final, por exemplo, por mais que tenha sido fruto de um estupro, o bebê não tem culpa, ele é uma vida inocente. Prefira sempre a adoção, prefira sempre a vida;
+- Aborto pode ser fatal psicologicamente. As mulheres têm o direito de fazê-lo, mas cuidado com as consequências. No final, por exemplo, por mais que tenha sido fruto de um estupro, o bebê não tem culpa, ele é uma vida inocente. Sendo de uma relação normal, o bebê não tem culpa de sua irresponsabilidade. Prefira sempre a adoção, prefira sempre a vida;
 - Se o Estado tem o poder de imprimir dinheiro, logo é possível aumentar impostos por meio da inflação da moeda, silenciosamente. Todo mês é recebido um salário, que se compra cada vez menos bens e serviços, empobrecendo a maioria. A casta política e os amigos do rei, por outro lado, se beneficiam;
 - Liberdade de expressão tem seus problemas, um deles é a disseminação de fake news. Se combate a mentira com mais informação, argumentando, mostrando a verdade. Inclusive, mesmo que não existisse liberdade de expressão, o que impediria fake news? Quem tem o poder dita a verdade, mesmo que seja mentira, afinal;
 - Quando se diz que o Estado não pode entrar na sua casa sem uma ordem judicial, isso é uma limitação ao Estado. O Estado é um ente muito poderoso, é necessário ter alguma limitação ao poder do Estado;
@@ -27,9 +27,13 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - É vedado definir moeda de curso legal e/ou forçado. As pessoas têm o direito de escolher a moeda que desejam utilizar para transações;
 - É vedado a existência de um Banco Central;
 - É vedado o Estado possuir empresas;
+- É vedado o Estado fechar as contas públicas em déficit, com exceção em tempos de guerra. A sua desobediência implica em destituição do governo;
+  - Com dinheiro em caixa, o governo poderá tomar atitudes em momentos de crise, como por exemplo em situações como a grande inundação do Rio Grande do Sul em 2024;
+  - Gastar menos do que arrecada implica em sustentabilidade por exemplo mantendo aposentadorias, pensões, e salários em dia.
 - É vedado o Estado controlar preços de produtos e serviços;
 - Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens. Exemplos:
-  - Um carro comprado é de fato do comprador, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
+  - Um carro comprado é de fato de quem comprar, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
+  - Uma casa comprada é de fato de quem comprar, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPTU;
   - A compra de bens e serviços externos não implica em imposto;
   - Não existe imposto sobre a renda uma vez que taxas já são cobradas na venda de produtos e serviços que geraram a renda.
 - É vedado o Estado impor um serviço que implica em cobranças de impostos implicitamente, como por exemplo DPVAT. Se existir algo do gênero, só paga quem quiser e ativamente efetuar o pagamento;
@@ -46,6 +50,9 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - É vedado a existência de pena de morte;
 - É vedado romper o devido processo legal. Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
 - O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. A competência originária é expecionalíssima;
+- A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não serão responsabilizados civilmente por danos decorrentes dessas pessoas;
+  - Por lógica contrária ao descrito, caso a plataforma fosse responsável, poderíamos usar a mesma conclusão em relação ao país. Se alguém morre decorrente de latrocínio ou tem seu bem roubado, a responsabilidade deveria ser dos políticos. Afinal eles são responsáveis pelo ambiente;
+  - A responsabilidade é sempre do indivíduo que cometeu o crime, não do ambiente.
 - É vedado estabilidade para cargos públicos, quaisquer que sejam;
 - Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
 - A sociedade brasileira rege-se pela observância dos seguintes princípios:
