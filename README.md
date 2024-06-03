@@ -19,6 +19,8 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Barreiras alfandegarias implicam em produtos mais caros para os consumidores. Talvez alguém pobre até poderia comprar um determinado eletrônico com 1 mês de trabalho, mas não pode dado as restrições alfandegarias e taxas. De fato, em muitos lugares serve para proteger o mercado interno, mas por que não criar um ambiente que promova concorrência e equidade para competição? O consumidor é quem mais se beneficia;
 - Exército não tem que se envolver em política. Exército tem que dar um jeito de proteger o país, se algum dia a nação for invadida. É a sua única tarefa;
 - Assim como o exército, juiz não tem que se envolver em política. Se o juiz emite opinião política, ele não é mais juiz, ele é político. Juiz tem que julgar com base na lei, não com base em opinião;
+- É mais fácil conseguir estágio do que um emprego convencional para quem está no início de sua carreira porque o empregador pode pagar de fato o quanto o trabalho da pessoa vale, que é muito pouco no começo. Se a pessoa não tem experiência e não pode fazer estágio, dificilmente conseguirá emprego, dado que ela não produz tanto para justificar o salário inicial, que no caso é o mínimo estabelecido pelo governo, mais todos os encargos envolvidos;
+- Para quem já tem experiência em sua carreira, o conceito de salário mínimo na prática não existe, pois o salário é negociado entre as partes;
 - A pessoa que tenha a liberdade de morar em diversos países temporariamente tem a capacidade de experimentar diversas jurisdições e escolher a melhor para si, contudo ela é obrigada a deixar sua cultura e família para trás na maioria das vezes. Esta Constituição defende essa liberdade de maneira irrestrita, inclusive permitindo ter essa mesma experiência dentro da própria nação com a viabilização de concorrência entre cidades-estado;
 
 ## TÍTULO I - Máximas
@@ -28,7 +30,6 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - É vedado a existência de um Banco Central;
 - É vedado o Estado possuir empresas;
 - É vedado o Estado fechar as contas públicas em déficit, com exceção em tempos de guerra. A sua desobediência implica em destituição do governo;
-  - Com dinheiro em caixa, o governo poderá tomar atitudes em momentos de crise, como por exemplo em situações como a grande inundação do Rio Grande do Sul em 2024;
   - Gastar menos do que arrecada implica em sustentabilidade por exemplo mantendo aposentadorias, pensões, e salários em dia.
 - É vedado o Estado controlar preços de produtos e serviços;
 - Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens. Exemplos:
@@ -49,14 +50,14 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - É vedado exigência de serviço militar obrigatório. O serviço militar é voluntário;
 - É vedado a existência de pena de morte;
 - É vedado romper o devido processo legal. Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
-- O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. A competência originária é expecionalíssima;
-- A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não serão responsabilizados civilmente por danos decorrentes dessas pessoas;
+- O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. É vedado que inicie investigações, inclusive julgamentos. A competência é excepcionalíssima. Qualquer ação em contrário definido por este artigo é nula;
+- A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não será responsabilizado civilmente por danos decorrentes dessas pessoas;
   - Por lógica contrária ao descrito, caso a plataforma fosse responsável, poderíamos usar a mesma conclusão em relação ao país. Se alguém morre decorrente de latrocínio ou tem seu bem roubado, a responsabilidade deveria ser dos políticos. Afinal eles são responsáveis pelo ambiente;
-  - A responsabilidade é sempre do indivíduo que cometeu o crime, não do ambiente.
+  - Portanto, dado o que foi definido no artigo, a responsabilidade é sempre do indivíduo que cometeu o crime, não do ambiente.
 - É vedado estabilidade para cargos públicos, quaisquer que sejam;
 - Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
 - A sociedade brasileira rege-se pela observância dos seguintes princípios:
-  - I – PNA;
+  - I – Nenhuma violência deve ser empregada contra um não agressor (PNA);
   - II – Autogoverno;
   - III – Autonomia da vontade do indivíduo;
   - IV – Consulta direta ao cidadão;
@@ -79,6 +80,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Na segunda fase a votação é feita somente para os primeiros 3 candidatos da lista de votos úteis e preferidos, totalizando até 6 candidatos. O mesmo processo da primeira fase é repetido;
 - Na terceira fase a votação é feita somente para os primeiros 2 candidatos da lista de votos úteis e preferidos, totalizando 4 candidatos. O mesmo processo da primeira fase é repetido;
 - A cada 6 meses todos os cidadãos poderão votar pelo celular para classificar o governo corrente entre 1 e 10. Se a média for menor que 5 por 3 votações consecutivas, o governo é destituído e novas eleições são convocadas;
+- Só são eleitas pessoas que receberam votos diretos. Se existir 10 vagas e disputarem 1000 pessoas, as 10 primeiras que receberam mais votos diretos serão eleitas. Ou seja, não existe quociente eleitoral ou qualquer outra regra que não seja a quantidade de votos diretos;
 - Assim que uma eleição é convocada, o processo deve ser feito em até 60 dias.
 
 ## TÍTULO III - Partidos políticos e candidaturas
