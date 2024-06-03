@@ -51,7 +51,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - É vedado a existência de pena de morte;
 - É vedado romper o devido processo legal. Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
 - O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. É vedado que inicie investigações, inclusive julgamentos. A competência é excepcionalíssima. Qualquer ação em contrário definido por este artigo é nula;
-- A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não será responsabilizado civilmente por danos decorrentes dessas pessoas;
+- A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não será responsabilizado de forma alguma por danos decorrentes dessas pessoas;
   - Por lógica contrária ao descrito, caso a plataforma fosse responsável, poderíamos usar a mesma conclusão em relação ao país. Se alguém morre decorrente de latrocínio ou tem seu bem roubado, a responsabilidade deveria ser dos políticos. Afinal eles são responsáveis pelo ambiente;
   - Portanto, dado o que foi definido no artigo, a responsabilidade é sempre do indivíduo que cometeu o crime, não do ambiente.
 - É vedado estabilidade para cargos públicos, quaisquer que sejam;
