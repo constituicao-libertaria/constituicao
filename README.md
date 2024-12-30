@@ -1,6 +1,6 @@
 # Constituição Libertária do Brasil
 
-Nós, o povo do Brasil, tendo como base o princípio da não-agressão e a defesa da propriedade privada, em função do entendimento que a história da humanidade demonstra que a liberdade é o melhor caminho para a prosperidade e o enriquecimento das pessoas, que resultados são maiores que intenções, que fatos são maiores que opiniões, promulgamos e estabelecemos esta Constituição para a República do Brasil.
+Nós, o povo do Brasil, tendo como base a defesa absoluta do projeto de vida do outro baseado no princípio da não-agressão e a defesa da propriedade privada, no entendimento que a história da humanidade demonstra que a liberdade é o melhor caminho para a prosperidade e o enriquecimento das pessoas, que resultados são maiores que intenções, que fatos são maiores que opiniões, promulgamos e estabelecemos esta Constituição para a República do Brasil.
 
 ## Premissas lógicas
 
