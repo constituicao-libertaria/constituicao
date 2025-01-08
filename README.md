@@ -8,6 +8,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 
 - Esta Constituição, assim como qualquer outro tipo de contrato, infelizmente, pode não ser respeitado como já ocorreu com outras constituições, dado que é só um papel. Tudo que tem humano envolvido é falível, portanto, por exemplo, não existe se quer o termo "a justiça é cega" para demonstrar imparcialidade;
 - De tempos em tempos as pessoas usam a desculpa do "defender a democracia" para justificar atos que não respeitam as leis. Jamais aceite esse argumento, que é inclusive um crime. É um ataque a democracia na verdade. Isso é demonstrável pelo mesmo argumento usado pela ditadura militar no Brasil em 1964;
+- Você provavelmente está em uma ditadura quando qualquer crítica ou questionamento é interpretado como um ataque. Democracia é questionar, é criticar, é debater, absolutamente qualquer coisa. Se você não pode fazer isso, você não vive em uma democracia;
 - Não existe serviço gratuito provido pelo Estado uma vez que não existe a opção de não pagar impostos. Se for impostos opcionais, aí sim, seria um serviço gratuito;
 - A partir do momento que é compreendido o princípio da não-agressão, é entendido o quão agressivo é questionar se uma pessoa pode casar-se com outra, independente do sexo, o mesmo para uso de drogas. As decisões de cada indivíduo, desde que sejam voluntárias, não podem ser proibidas, contudo podem ter consequências boas ou ruins, depende;
 - Todo ser vivo nasce com uma única propriedade privada: seu corpo;
@@ -25,6 +26,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 
 ## TÍTULO I - Máximas
 
+- Nenhum direito é superior ao direito individual, que são três: a vida, a liberdade e a propriedade privada. São direitos reconhecidos e jusnaturais que surge pela mera existência das pessoas no mundo;
 - O Estado é limitado a atuar apenas na segurança, saúde, educação e infraestrutura, permitindo que o mercado atue em todas as outras áreas, inclusive as mencionadas;
 - É vedado definir moeda de curso legal e/ou forçado. As pessoas têm o direito de escolher a moeda que desejam utilizar para transações;
 - É vedado a existência de um Banco Central;
@@ -35,7 +37,6 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Só há coleta de impostos na venda de produtos e serviços, logo não existe imposto sobre herança ou imposto recorrente para quem possuí carros ou qualquer outros bens. Exemplos:
   - Um carro comprado é de fato de quem comprar, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPVA;
   - Uma casa comprada é de fato de quem comprar, não há necessidade de pagamento de aluguel pro Estado anualmente como ocorre com o IPTU;
-  - A compra de bens e serviços externos não implica em imposto;
   - Não existe imposto sobre a renda uma vez que taxas já são cobradas na venda de produtos e serviços que geraram a renda.
 - É vedado o Estado impor um serviço que implica em cobranças de impostos implicitamente, como por exemplo DPVAT. Se existir algo do gênero, só paga quem quiser e ativamente efetuar o pagamento;
 - É vedado exigir ou aumentar tributo sem lei que o estabeleça e sem consulta prévia à população interessada, conforme disposto em lei complementar;
@@ -46,10 +47,10 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
   - Se o Estado precisa provar que uma postagem é falsa, basta responder e fornecer as fontes. A população decide o que é verdade. Assim como é feito nas notas de comunidade da plataforma X (anteriormente Twitter);
 - É vedado crime por opinião;
 - Tudo o que consta nesta Constituição não pode ser harmonizado com outros direitos;
-- Nenhum direito é superior ao direito individual;
 - É vedado exigência de serviço militar obrigatório. O serviço militar é voluntário;
 - É vedado a existência de pena de morte;
-- É vedado romper o devido processo legal. Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
+- É vedado romper o devido processo legal.
+  - Autotutela não resolve justiça. Fazer justiça é uma atividade sujeita a muitos erros. Portanto existem mecanismos para minimizar esses erros, como ampla defesa, o contraditório, juiz natural, duplo grau de jurisdição, entre outros;
 - O Superior Tribunal de Justiça só cuida de processos que já foram julgados em tribunais inferiores. É vedado que inicie investigações, inclusive julgamentos. A competência é excepcionalíssima. Qualquer ação em contrário definido por este artigo é nula;
 - A plataforma, produto, provedor de conexão à internet, enfim, o que quer que crie um ambiente onde pessoas podem acessar para algum fim, não será responsabilizado de forma alguma por danos decorrentes dessas pessoas;
   - Por lógica contrária ao descrito, caso a plataforma fosse responsável, poderíamos usar a mesma conclusão em relação ao país. Se alguém morre decorrente de latrocínio ou tem seu bem roubado, a responsabilidade deveria ser dos políticos. Afinal eles são responsáveis pelo ambiente;
@@ -139,6 +140,7 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Brasil
   - [Constituição A Libertadora](https://constituicaolibertadora.com.br/);
   - [Constituição Federal](https://www25.senado.leg.br/web/atividade/legislacao/constituicao-federal).
+  - https://github.com/abjur/constituicao
 - EUA
   - [Constitution of the United States](https://www.senate.gov/about/origins-foundations/senate-and-constitution/constitution.htm).
 - Singapure
