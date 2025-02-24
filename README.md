@@ -135,6 +135,36 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 - Leis federais que versem sobre matérias cuja competência seja concorrente entre os entes federados serão deliberadas pelo Parlamento e sancionadas pelo Chefe de Estado, e requerem aprovação das assembleias das cidades-estado.
 - No âmbito da legislação concorrente de que trata esta Constituição, a competência da União limitar-se-á a estabelecer normas gerais.
 
+## FAQ
+
+Abaixo seguem perguntas feitas por algumas pessoas ao lerem esta Constituição.
+
+### "Todo cidadão tem o direito de manter e portar armas para fins de autodefesa" eu já não confio em ninguém e não falo nada pra ninguém na rua pra evitar situações, então eu deixaria rolar como teste vivo mesmo, só pra ver o que ia virar. Mesmo achando que iria dar ruim.
+
+Na prática hoje no Brasil, qualquer um pode ter arma dado que o que consta no papel as pessoas más já não seguem. Nessa história quem se fode são os que seguem a regra atual achando que vai magicamente resolver a questão toda.
+
+O lance aqui é pensar que você tem o direto de se defender se for agredido. Aqui vale muito o PNA (princípio da não-agressão). Se você usar qualquer elemento que seja (faca, arma de fogo, etc.) para se defender, OK. Contudo se você for agressor, sofrerá consequências.
+
+### "A população decide o que é verdade" é complicado. Na verdade a maioria da população é burra, e o darwinismo vai bater com força.
+
+Hoje com deepfake, as LLMs evoluindo e inúmera outras ferramentas, já é praticamente impossível para a população saber o que é verdade ou não, no geral. Colocar proibição, restringir liberdades, não é a solução. Além de não ser uma abordagem libertário, é algo que só reforça conspiração. Community notes é libertária. Colocar o poder no Estado para decidir o que é verdade ou não é um caminho perigoso. Imagina que alguém que você não gosta está no poder e decide que o que você fala é mentira e ainda o criminaliza por isso. A Rússia tem legislação de fake news. Já viu o que acontece lá?
+
+### Deu a entender que podemos ter políticos criminossos pois não existe "ficha limpa" ou algo do tipo. Não consigo imaginar como colocar um condenado em um cargo de poder seria bom. 
+
+Qualquer lei que exija ficha limpa concede mais poder ao judiciário, em última instância. Alguém que poderia concorrer a um cargo político, mas que foi condenado por um crime que não é crime, por exemplo, seria impedido de concorrer. Pura pura lógica: O que é crime é definido pelo Estado, e o Estado é composto por pessoas. Se o Estado é composto por pessoas, e pessoas são falíveis, logo o Estado é falível. Se o Estado é falível, logo o que é crime pode ser falível. Se o que é crime pode ser falível, logo a ficha limpa pode ser falível. Se a ficha limpa pode ser falível, logo a ficha limpa não é uma boa ideia.
+
+### Temos que proteger nossas terras, proteger os índios. Não tem absolutamente nada sobre isso na Constituição.
+
+Algumas pessoas acreditam que os índios são propriedades do Estado, incluindo suas terras. As terras são deles, não da gente ou do Estado. As pessoas precisam parar de tratar outras pessoas como escravas, submissas de suas vontades.
+
+### Aqui não é dito sobre casamento entre pessoas do mesmo sexo. Não acho certo.
+
+Você é Deus para ditar o que é certo ou errado para os outros? As duas pessoas te agrediram? Se não, não é da sua conta. Não é sua responsabilidade.
+
+### Saude é um direito fundamental pra mim, mas está vedado na Constituição. Como fica?
+
+Na verdade só é dito que a União não pode legislar sobre saúde, mas as cidades-estado podem. A ideia é dar autonomia para as cidades-estado decidirem o que é melhor para elas. É como se realmente tivéssemos várias jurisdições em um único país.
+
 ## Referências
 
 - Brasil
