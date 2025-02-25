@@ -7,6 +7,7 @@ Nós, o povo do Brasil, tendo como base a defesa absoluta do projeto de vida do 
 O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) é a fundação desta Constituição. Portanto, por definição ela não é 100% libertária, mas é um caminho, e antes algo do que nada. De fato, é contraditório permitir impostos sendo que o método de coleta é a agressão: ou paga ou é preso/multado. Esta Constituição é um meio termo entre a liberdade e a realidade, sendo essa realidade a existência de pessoas querendo ditar o que elas acham o que são melhores para as outras. A agressão e o mal sempre vão existir. A partir desse entendimento, é possível derivar as seguintes conclusões:
 
 - Esta Constituição, assim como qualquer outro tipo de contrato, infelizmente, pode não ser respeitado como já ocorreu com outras constituições, dado que é só um papel. Tudo que tem humano envolvido é falível, portanto, por exemplo, não existe se quer o termo "a justiça é cega" para demonstrar imparcialidade;
+- Tirando a casta política e amigos do rei, todos são escravos de ganho de governo;
 - De tempos em tempos as pessoas usam a desculpa do "defender a democracia" para justificar atos que não respeitam as leis. Jamais aceite esse argumento, que é inclusive um crime. É um ataque a democracia na verdade. Isso é demonstrável pelo mesmo argumento usado pela ditadura militar no Brasil em 1964;
 - Você provavelmente está em uma ditadura quando qualquer crítica ou questionamento é interpretado como um ataque. Democracia é questionar, é criticar, é debater, absolutamente qualquer coisa. Se você não pode fazer isso, você não vive em uma democracia;
 - Não existe serviço gratuito provido pelo Estado uma vez que não existe a opção de não pagar impostos. Se for impostos opcionais, aí sim, seria um serviço gratuito;
@@ -169,7 +170,7 @@ Hoje com deepfake, as LLMs evoluindo e o surgimento de inúmeras outras ferramen
 
 ### Deu a entender que podemos ter políticos criminossos pois não existe "ficha limpa" ou algo do tipo. Não consigo imaginar como colocar um condenado em um cargo de poder seria bom. 
 
-Qualquer lei que exija ficha limpa concede mais poder ao judiciário, em última instância. Alguém que poderia concorrer a um cargo político, mas que foi condenado por um crime que não é crime, por exemplo, seria impedido de concorrer. Pura pura lógica: O que é crime é definido pelo Estado, e o Estado é composto por pessoas. Se o Estado é composto por pessoas, e pessoas são falíveis, logo o Estado é falível. Se o Estado é falível, logo o que é crime pode ser falível. Se o que é crime pode ser falível, logo a ficha limpa pode ser falível. Se a ficha limpa pode ser falível, logo a ficha limpa não é uma boa ideia.
+Qualquer lei que exija ficha limpa concede mais poder ao judiciário, em última instância. Alguém que poderia concorrer a um cargo político, mas que foi condenado por um crime que não é crime, por exemplo, seria impedido de concorrer. Pura lógica: O que é crime é definido pelo Estado, e o Estado é composto por pessoas. Se o Estado é composto por pessoas, e pessoas são falíveis, logo o Estado é falível. Se o Estado é falível, logo o que é crime pode ser falível. Se o que é crime pode ser falível, logo a ficha limpa pode ser falível. Se a ficha limpa pode ser falível, logo a ficha limpa não é uma boa ideia.
 
 ### Temos que proteger nossas terras, proteger os índios. Não tem absolutamente nada sobre isso na Constituição.
 
@@ -178,6 +179,14 @@ Algumas pessoas acreditam que os índios são propriedades do Estado, incluindo 
 ### Em função da Constituição, ficaria do lado de quem, Rússia ou Ucrânia?
 
 Ucrânia. Rússia foi o agressor. Um dos argumentos da Rússia para ter invadido é que a Ucrânia entraria na OTAN. Qual o problema? Ucrânia não pode tomar suas decisões? Ela tem sua soberania e decide o que é melhor para ela.
+
+### Como vocês entendem a questão de um judiciário de um país estrangeiro revogar uma decisão brasileira? Tema muito discutido dado decisões do STF em cima das bigtechs em 2024/2025.
+
+Um dos princípios fundamentais da justiça libertária é o princípio do Estoppel, que também é um princípio do direito internacional. Ele diz basicamente que se você realiza ação contra outra pessoa, isso quer dizer que você implicitamente aceita que a outra pessoa realize aquela operação contra você. Exemplo prático e real: 
+
+- No momento que um juiz brasileiro emite uma ordem para proibir que uma empresa americana de fazer coisas nos EUA, o juiz está implicitamente aceitando que as empresas americanas tenham o direito de obter uma ordem na justiça americana para não seguir as ordens emitidas no Brasil.
+
+Ou seja, se o juiz brasileiro acha que o Brasil pode mandar em outro país, então ele não pode reclamar na justiça americana e suas decisões.
 
 ## Referências
 
