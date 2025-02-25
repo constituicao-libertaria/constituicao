@@ -139,6 +139,24 @@ O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) 
 
 Abaixo seguem perguntas feitas por algumas pessoas ao lerem esta Constituição.
 
+### Aqui não é dito sobre casamento entre pessoas do mesmo sexo. Não acho certo.
+
+Você é Deus para ditar o que é certo ou errado para os outros? As duas pessoas te agrediram? Se não, não é da sua conta. Não é sua responsabilidade.
+
+### Saude é um direito fundamental pra mim, mas está vedado na Constituição. Como fica?
+
+Na verdade só é dito que a União não pode legislar sobre saúde, mas as cidades-estado podem. A ideia é dar autonomia para as cidades-estado decidirem o que é melhor para elas. É como se realmente tivéssemos várias jurisdições em um único país.
+
+### Drogas vai ser liberado geral mesmo?
+
+Pela Constituição, depende da cidade-estado que você residir. Agora, considerando a ética libertária, você faz o que você quiser. Você é responsável pelas suas ações. Veja o tópico sobre premissas lógicas.
+
+### Cassino no Brasil. Liberado ou não? Vai ter proteção para os pobres?
+
+Você não pode dividir a sociedade em pessoas que sabem pensar e pessoas que não sabem pensar. O que você quer dizer com "proteção para os pobres"? É rebaixar as pessoas a qualidade de que o Estado vai dizer o que elas podem e não podem fazer? Tutelar as pessoas? Isso é muito perigoso.
+
+Cassino é um negócio como qualquer outro. Participa quem quer.
+
 ### "Todo cidadão tem o direito de manter e portar armas para fins de autodefesa" eu já não confio em ninguém e não falo nada pra ninguém na rua pra evitar situações, então eu deixaria rolar como teste vivo mesmo, só pra ver o que ia virar. Mesmo achando que iria dar ruim.
 
 Na prática hoje no Brasil, qualquer um pode ter arma dado que o que consta no papel as pessoas más já não seguem. Nessa história quem se fode são os que seguem a regra atual achando que vai magicamente resolver a questão toda.
@@ -147,7 +165,7 @@ O lance aqui é pensar que você tem o direto de se defender se for agredido. Aq
 
 ### "A população decide o que é verdade" é complicado. Na verdade a maioria da população é burra, e o darwinismo vai bater com força.
 
-Hoje com deepfake, as LLMs evoluindo e inúmera outras ferramentas, já é praticamente impossível para a população saber o que é verdade ou não, no geral. Colocar proibição, restringir liberdades, não é a solução. Além de não ser uma abordagem libertário, é algo que só reforça conspiração. Community notes é libertária. Colocar o poder no Estado para decidir o que é verdade ou não é um caminho perigoso. Imagina que alguém que você não gosta está no poder e decide que o que você fala é mentira e ainda o criminaliza por isso. A Rússia tem legislação de fake news. Já viu o que acontece lá?
+Hoje com deepfake, as LLMs evoluindo e o surgimento de inúmeras outras ferramentas, já é praticamente impossível para a população saber o que é verdade ou não, no geral. É muito fácil enganar. Colocar proibição, restringir liberdades, não é a solução. Além de não ser uma abordagem libertário, é algo que só reforça conspiração. _[Community notes](https://github.com/twitter/communitynotes)_ é libertário, por exemplo. Colocar o poder no Estado para decidir o que é verdade ou não é um caminho perigoso. Imagina que alguém que você não gosta está no poder e decide que o que você fala é mentira e ainda o criminaliza por isso. A Rússia tem legislação de fake news. Já viu o que acontece lá?
 
 ### Deu a entender que podemos ter políticos criminossos pois não existe "ficha limpa" ou algo do tipo. Não consigo imaginar como colocar um condenado em um cargo de poder seria bom. 
 
@@ -157,13 +175,9 @@ Qualquer lei que exija ficha limpa concede mais poder ao judiciário, em última
 
 Algumas pessoas acreditam que os índios são propriedades do Estado, incluindo suas terras. As terras são deles, não da gente ou do Estado. As pessoas precisam parar de tratar outras pessoas como escravas, submissas de suas vontades.
 
-### Aqui não é dito sobre casamento entre pessoas do mesmo sexo. Não acho certo.
+### Em função da Constituição, ficaria do lado de quem, Rússia ou Ucrânia?
 
-Você é Deus para ditar o que é certo ou errado para os outros? As duas pessoas te agrediram? Se não, não é da sua conta. Não é sua responsabilidade.
-
-### Saude é um direito fundamental pra mim, mas está vedado na Constituição. Como fica?
-
-Na verdade só é dito que a União não pode legislar sobre saúde, mas as cidades-estado podem. A ideia é dar autonomia para as cidades-estado decidirem o que é melhor para elas. É como se realmente tivéssemos várias jurisdições em um único país.
+Ucrânia. Rússia foi o agressor. Um dos argumentos da Rússia para ter invadido é que a Ucrânia entraria na OTAN. Qual o problema? Ucrânia não pode tomar suas decisões? Ela tem sua soberania e decide o que é melhor para ela.
 
 ## Referências
 
