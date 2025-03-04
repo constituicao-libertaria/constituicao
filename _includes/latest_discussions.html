@@ -1,0 +1,135 @@
+<script>
+    $(document).ready(function () {
+        fetchRecentDiscussions();
+    });
+
+    function fetchRecentDiscussions() {
+        const latestDiscussions = [
+          {
+            "title": "Aborto deve ser proibido. Vai liberar assassinato?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/18",
+            "number": 18,
+            "createdAt": "2025-03-03T14:19:05Z"
+          },
+          {
+            "title": "Todos devem ter direito a educação gratuita. Por que não está explícito na Constituição?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/17",
+            "number": 17,
+            "createdAt": "2025-03-03T13:51:10Z"
+          },
+          {
+            "title": "Em função da Constituição, ficaria do lado de quem, Rússia ou Ucrânia?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/16",
+            "number": 16,
+            "createdAt": "2025-03-01T15:16:19Z"
+          },
+          {
+            "title": "Temos que proteger nossas terras, proteger os índios, sua cultura. Não tem absolutamente nada sobre isso na Constituição.",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/13",
+            "number": 13,
+            "createdAt": "2025-03-01T15:04:57Z"
+          },
+          {
+            "title": "Cassino no Brasil. Liberado ou não? Vai ter proteção para os pobres?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/8",
+            "number": 8,
+            "createdAt": "2025-03-01T14:52:35Z"
+          },
+          {
+            "title": "Drogas vai ser liberado geral mesmo?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/7",
+            "number": 7,
+            "createdAt": "2025-03-01T14:51:54Z"
+          },
+          {
+            "title": "Saude é um direito fundamental pra mim, mas está vedado na Constituição. Como fica?",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/5",
+            "number": 5,
+            "createdAt": "2025-03-01T14:45:19Z"
+          },
+          {
+            "title": "Na Constituição não é dito sobre casamento entre pessoas do mesmo sexo. Não acho certo.",
+            "url": "https://github.com/constituicao-libertaria/constituicao/discussions/4",
+            "number": 4,
+            "createdAt": "2025-03-01T14:37:09Z"
+          }
+        ]
+        displayDiscussions(latestDiscussions);
+    }
+
+    function displayDiscussions(discussions) {
+        const container = document.getElementById('discussion-buttons');
+
+        if (discussions && discussions.length > 0) {
+            let buttonsHtml = '';
+
+            discussions.forEach(discussion => {
+                const date = new Date(discussion.createdAt).toLocaleDateString('pt-BR');
+                buttonsHtml += `
+                        <a href="${discussion.url}" class="discussion-btn" target="_blank" rel="noopener noreferrer">
+                            <span class="discussion-title">#${discussion.number}: ${discussion.title}</span>
+                            <span class="discussion-date">${date}</span>
+                        </a>
+                    `;
+            });
+
+            container.innerHTML = buttonsHtml;
+            document.getElementById('recent-discussions').style.display = 'block';
+        } else {
+            container.innerHTML = '<p>Nenhuma discussão encontrada. <a href="https://github.com/constituicao-libertaria/constituicao/discussions" target="_blank">Iniciar uma discussão</a>.</p>';
+        }
+    }
+</script>
+
+<style>
+    .recent-discussions {
+        max-width: 64rem;
+        margin: 0 auto;
+        padding: 2rem 6rem;
+    }
+
+    .recent-discussions h3 {
+        margin-top: 0;
+        text-align: center;
+    }
+
+    .discussion-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 0.8rem;
+    }
+
+    .discussion-btn {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.8rem 1.2rem;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        color: #606c71;
+        text-decoration: none;
+        transition: all 0.2s ease-in-out;
+    }
+
+    .discussion-btn:hover {
+        background-color: #f1f1f1;
+        border-color: #159957;
+        transform: translateY(-2px);
+    }
+
+    .discussion-title {
+        font-weight: 500;
+    }
+
+    .discussion-date {
+        font-size: 0.9em;
+        color: #819198;
+    }
+
+    @media screen and (max-width: 42em) {
+        .recent-discussions {
+            padding: 2rem;
+        }
+    }
+</style>

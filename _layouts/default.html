@@ -17,7 +17,17 @@
 
     <header class="page-header" role="banner">
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://github.com/constituicao-libertaria/constituicao/discussions" target="_blank" rel="noopener noreferrer" class="btn">Participe das discussões. Envie sua pergunta! 💡</a></header>
+      <a href="https://github.com/constituicao-libertaria/constituicao/discussions" target="_blank" rel="noopener noreferrer" class="btn">Participe das discussões. Envie sua pergunta! 💡</a>
+    </header>
+
+    <!-- Recent Discussions Section -->
+    <div id="recent-discussions" class="recent-discussions" style="display: none;">
+      <h3>Discussões Recentes</h3>
+      <div id="discussion-buttons" class="discussion-buttons">
+        <p>Carregando discussões recentes...</p>
+      </div>
+    </div>
+
     <main id="content" class="main-content" role="main">
       {{ content }}
 
@@ -41,5 +51,7 @@
             anchors.add('.post-content > h1, h2, h3, h4, h5, h6, p');
         });
     </script>
+
+    {% include latest_discussions.html %}
   </body>
 </html>
