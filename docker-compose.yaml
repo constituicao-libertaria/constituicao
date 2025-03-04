@@ -1,0 +1,20 @@
+# https://docs.docker.com/compose/compose-file/compose-file-v3/#extension-fields
+x-build: &dockerfile-dev-build
+  context: .
+  dockerfile: Dockerfile.dev
+
+services:
+  github-pages:
+    build:
+      context: .
+    working_dir: /app
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/app
+    command:
+      - sh
+      - "-ce"
+      - |
+        set -e
+        jekyll serve --verbose --livereload --force_polling --host 0.0.0.0

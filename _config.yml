@@ -1,3 +1,16 @@
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# https://pages.github.com/themes/
+# https://github.com/pages-themes/cayman
+theme: jekyll-theme-cayman
+
+domain: https://constituicao-libertaria.github.io
+url: https://constituicao-libertaria.github.io
+baseurl: /
+repository: constituicao-libertaria/constituicao
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+github: [ metadata ]
+
 plugins:
   - jekyll-relative-links
 relative_links:
