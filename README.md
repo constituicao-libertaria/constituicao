@@ -1,10 +1,10 @@
 # Constituição Libertária do Brasil
 
-Nós, o povo do Brasil, tendo como base a defesa absoluta do projeto de vida do outro baseado no princípio da não-agressão e a defesa da propriedade privada, no entendimento que a história da humanidade demonstra que a liberdade é o melhor caminho para a prosperidade e o enriquecimento das pessoas, que resultados são maiores que intenções, que fatos são maiores que opiniões, promulgamos e estabelecemos esta Constituição para a República do Brasil.
+Nós, o povo do Brasil, tendo como base a defesa absoluta do projeto de vida do outro baseada no princípio da não agressão, e no entendimento de que a história da humanidade demonstra que a liberdade é o melhor caminho para a prosperidade e o enriquecimento das pessoas; de que resultados são mais importantes que intenções; e de que fatos têm mais peso que opiniões, promulgamos e estabelecemos esta Constituição para a República do Brasil.
 
 ## Premissas lógicas
 
-O [PNA](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_da_n%C3%A3o-agress%C3%A3o) é a fundação desta Constituição. Portanto, por definição ela não é 100% libertária, mas é um caminho, e antes algo do que nada. De fato, é contraditório permitir impostos sendo que o método de coleta é a agressão: ou paga ou é preso/multado. Esta Constituição é um meio-termo entre a liberdade e a realidade, sendo essa realidade a existência de pessoas querendo ditar o que elas acham o que são melhores para as outras. A agressão e o mal sempre vão existir. A partir desse entendimento, é possível derivar as seguintes conclusões:
+O que podemos fazer no mundo de hoje para aumentar as chances de termos mais liberdade? Esta Constituição é uma resposta a essa realidade. Ela é libertária por propiciar esse caminho. Representa um meio-termo entre a liberdade e a realidade, sendo esta última a existência de pessoas que querem ditar o que elas acham ser o melhor para as outras. A agressão e o mal sempre existirão. A partir desse entendimento, é possível derivar as seguintes conclusões:
 
 - Esta Constituição, assim como qualquer outro tipo de contrato, infelizmente, pode não ser respeitado como já ocorreu com outras constituições, dado que é só um papel. Tudo que tem humano envolvido é falível, portanto, por exemplo, não existe se quer o termo "a justiça é cega" para demonstrar imparcialidade;
 - Tirando a casta política e amigos do rei, todos são escravos de ganho de governo;
@@ -85,23 +85,21 @@ Art. 21. A plataforma, produto, provedor de conexão à internet, enfim, o que q
 
 Art. 22. É vedado estabilidade para cargos públicos, quaisquer que sejam.
 
-Art. 24. Os juízes podem fundamentar suas decisões nos costumes locais, nos princípios gerais do direito e na jurisprudência consolidada, garantindo a coerência e previsibilidade das decisões judiciais. Esse sistema jurídico, conhecido como Common Law, permite que os precedentes judiciais sirvam como base para a resolução de casos futuros, evitando a necessidade de uma legislação excessivamente extensa e detalhada.
+Art. 23. Os juízes podem fundamentar suas decisões nos costumes locais, nos princípios gerais do direito e na jurisprudência consolidada, garantindo a coerência e previsibilidade das decisões judiciais. Esse sistema jurídico, conhecido como Common Law, permite que os precedentes judiciais sirvam como base para a resolução de casos futuros, evitando a necessidade de uma legislação excessivamente extensa e detalhada.
 
-Art. 23. Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
+Art. 24. Esta Constituição constituirá a lei suprema do país; os juízes de todas as instâncias são sujeitos a ela, ficando sem efeito qualquer disposição em contrário na Constituição ou nas leis de qualquer das cidades-estado. Nenhuma disposição desta Constituição se interpretará de modo a prejudicar os direitos do indivíduo, do Brasil ou de qualquer das cidades-estado.
 
 Art. 25. A sociedade brasileira rege-se pela observância dos seguintes princípios:
  
-I – Nenhuma violência deve ser empregada contra um não agressor (PNA);
+I – Autogoverno;
  
-II – Autogoverno;
+II – Autonomia da vontade do indivíduo;
  
-III – Autonomia da vontade do indivíduo;
+III – Consulta direta ao cidadão;
  
-IV – Consulta direta ao cidadão;
+IV – Responsabilidade individual; e
  
-V – Responsabilidade individual; e
- 
-VI – Supremacia do contrato.
+V – Supremacia do contrato.
 
 ## TÍTULO II - Sistema de votação
 
@@ -237,7 +235,7 @@ Art. 60. A Câmara dos Representantes será composta de membros eleitos bianualm
 
 Art. 61. O número de Representantes são fixados, para as diversas cidades-estado que fizerem parte da União, em função do recenseamento. O número de representantes das diferentes cidades-estado será proporcional às suas respectivas populações, contando-se o número total dos habitantes de cada cidade-estado.
 
-Art. 62. A Câmara dos Representantes elegerá o seu Presidente e demais membros da Mesa e exercerá, com exclusividade, o poder de indiciar e julgar por crime de responsabilidade (impeachment). O julgamento do Presidente do Brasil será presidido pelo Presidente da Suprema Corte. E nenhuma pessoa será condenada a não ser pelo voto de dois terços dos membros presentes. A pena nos crimes de responsabilidade não excederá a destituição da função e a incapacidade para exercer qualquer função pública, honorífica ou remunerada, no Brasil. O condenado estará sujeito, no entanto, a ser processado e julgado, de acordo com a lei.
+Art. 62. A Câmara dos Representantes elegerá o seu Presidente e demais membros da Mesa e exercerá, com exclusividade, o poder de indiciar e julgar por crime de responsabilidade (impeachment). O julgamento do Presidente do Brasil ou de qualquer juiz será presidido pelo Presidente da Suprema Corte. E nenhuma pessoa será condenada a não ser pelo voto de dois terços dos membros presentes. A pena nos crimes de responsabilidade não excederá a destituição da função e a incapacidade para exercer qualquer função pública, honorífica ou remunerada, no Brasil. O condenado estará sujeito, no entanto, a ser processado e julgado, de acordo com a lei.
 
 Art. 63. A Câmara será o juiz da eleição, votação, e qualificação de seus próprios membros, e em cada uma delas a maioria constituirá o quorum necessário para deliberar; mas um número menor poderá prorrogar a sessão, dia a dia, e poderá ser autorizado a compelir os membros ausentes a comparecerem, do modo e mediante as penalidades que a Câmara estabelecer.
 
