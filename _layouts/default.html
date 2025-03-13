@@ -11,6 +11,47 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+      <style>
+.key-principles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 20px auto 16px;
+  max-width: 92%;
+}
+
+.principle-pill {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 500;
+  backdrop-filter: blur(5px);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  text-align: center;
+  cursor: default;
+}
+
+.principle-pill:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.page-header {
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .principle-pill {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+}
+      </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -21,6 +62,13 @@
           Cada família possui muitos <a href="https://pt.wikipedia.org/wiki/Escravos_de_ganho" target="_blank" rel="noopener noreferrer" style="color: yellow">escravos de ganho</a> (sim a escravidão existe nesse mundo) e muitas delas tem poder para destruir o mundo se quiserem. Os nomes dessas famílias são: Brasil, EUA, China, Congo, Egito, Irã, Argentina, entre outros. Nossa luta é contra a escravidão. Diga não a casta. Viva a liberdade!
       </h2>
       <a href="https://github.com/constituicao-libertaria/constituicao/discussions" target="_blank" rel="noopener noreferrer" class="btn">Participe das discussões. Envie sua pergunta! 💡</a>
+
+      <div class="key-principles">
+        <div class="principle-pill">Cidades-estado similares a Hong Kong e Singapura em termos de poder🌿</div>
+        <div class="principle-pill">No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais 🗒️</div>
+        <div class="principle-pill">Adoção do sistema jurídico common law ⚖️</div>
+        <div class="principle-pill">Constituição definida em apenas 10 páginas 🤏</div>
+      </div>
     </header>
 
     <!-- Recent Discussions Section -->

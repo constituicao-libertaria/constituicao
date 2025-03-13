@@ -307,3 +307,5 @@ Art. 89. Em todos os processos criminais, o acusado terá direito a um julgament
   - [Constitution of the Republic of Singapore](https://sso.agc.gov.sg/Act/CONS1963).
 - Estônia
   - [Knowledge Base](https://learn.e-resident.gov.ee/hc/en-us).
+- Hong Kong
+  - [The Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China](https://www.basiclaw.gov.hk/en/basiclaw/index.html)
