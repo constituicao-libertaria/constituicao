@@ -51,6 +51,50 @@
     padding: 8px 16px;
   }
 }
+
+@media print {
+  body > *:not(#content),
+  .main-content > *:not(.content-inner) {
+    display: none !important;
+  }
+
+  #skip-to-content,
+  .page-header,
+  .recent-discussions,
+  .site-footer {
+    display: none !important;
+  }
+
+  .main-content {
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+  }
+
+  body {
+    background: white;
+    font-size: 12pt;
+  }
+
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 90%;
+  }
+
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: "";
+  }
+  #referências,
+  #referências ~ * {
+    display: none;
+  }
+}
       </style>
   </head>
   <body>
@@ -64,7 +108,7 @@
       <a href="https://github.com/constituicao-libertaria/constituicao/discussions" target="_blank" rel="noopener noreferrer" class="btn">Participe das discussões. Envie sua pergunta! 💡</a>
 
       <div class="key-principles">
-        <div class="principle-pill">Cidades-estado similares a Hong Kong e Singapura em termos de poder🌿</div>
+        <div class="principle-pill">Cidades-estado similares a Hong Kong e Singapura em termos de poder 🌿</div>
         <div class="principle-pill">No âmbito da legislação concorrente, a competência da União limitar-se-á a estabelecer normas gerais 🗒️</div>
         <div class="principle-pill">Adoção do sistema jurídico common law ⚖️</div>
         <div class="principle-pill">Constituição definida em apenas 10 páginas 🤏</div>
@@ -80,7 +124,9 @@
     </div>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      <div class="content-inner">
+        {{ content }}
+      </div>
 
       <footer class="site-footer" style="text-align: center">
         {% if site.github.is_project_page %}
